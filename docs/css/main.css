@@ -9,10 +9,24 @@ body {
 	color: #000000;
 	background-color: #424242;
 
+/*
 	background: #F8D353;
 	background: -webkit-linear-gradient(top left, #F8D353, #FF5C5A);
 	background: -moz-linear-gradient(top left, #F8D353, #FF5C5A);
 	background: linear-gradient(top left, #F8D353, #FF5C5A);
+*/
+    
+    background: #C15CD1;
+    background: -webkit-linear-gradient(top, #C15CD1, #4769B8);
+    background: -moz-linear-gradient(top, #C15CD1, #4769B8);
+    background: linear-gradient(to bottom, #C15CD1, #4769B8);
+    
+/*
+    background: #C15CD1;
+    background: -webkit-linear-gradient(bottom, #C15CD1, #4769B8);
+    background: -moz-linear-gradient(bottom, #C15CD1, #4769B8);
+    background: linear-gradient(to top, #C15CD1, #4769B8);
+*/
 
 /*	background: #B0D09C;
 	background: -webkit-linear-gradient(top left, #B0D09C, #4B8244);
