@@ -16,10 +16,17 @@ body {
 	background: linear-gradient(top left, #F8D353, #FF5C5A);
 */
     
+    background: #EF234C;
+    background: -webkit-linear-gradient(top, #EF234C, #C97F01);
+    background: -moz-linear-gradient(top, #EF234C, #C97F01);
+    background: linear-gradient(to bottom, #EF234C, #C97F01);
+    
+/*
     background: #C15CD1;
     background: -webkit-linear-gradient(top, #C15CD1, #4769B8);
     background: -moz-linear-gradient(top, #C15CD1, #4769B8);
     background: linear-gradient(to bottom, #C15CD1, #4769B8);
+*/
     
 /*
     background: #C15CD1;

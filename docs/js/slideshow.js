@@ -8,7 +8,7 @@ $(document).ready(function(){
         
         var i;
     
-        var slides = $('.photo img');
+        var slides = $('#instafeed a');
         console.log(slides);
         console.log(slides.length);
         
