@@ -1,9 +1,9 @@
-html,
-body {
-	height: 100%;
+html {
+	min-height: 100%;
 }
 
 body {
+    min-height: 100%;
 	font-family: 'PT Sans Narrow', sans-serif;
 	font-weight: 400;
 	color: #000000;
@@ -20,35 +20,6 @@ body {
     background: -webkit-linear-gradient(top, #EF234C, #C97F01);
     background: -moz-linear-gradient(top, #EF234C, #C97F01);
     background: linear-gradient(to bottom, #EF234C, #C97F01);
-    
-/*
-    background: #C15CD1;
-    background: -webkit-linear-gradient(top, #C15CD1, #4769B8);
-    background: -moz-linear-gradient(top, #C15CD1, #4769B8);
-    background: linear-gradient(to bottom, #C15CD1, #4769B8);
-*/
-    
-/*
-    background: #C15CD1;
-    background: -webkit-linear-gradient(bottom, #C15CD1, #4769B8);
-    background: -moz-linear-gradient(bottom, #C15CD1, #4769B8);
-    background: linear-gradient(to top, #C15CD1, #4769B8);
-*/
-
-/*	background: #B0D09C;
-	background: -webkit-linear-gradient(top left, #B0D09C, #4B8244);
-	background: -moz-linear-gradient(top left, #B0D09C, #4B8244);
-	background: linear-gradient(top left, #B0D09C, #4B8244);*/
-	
-/*	background: #B5DBDC;
-	background: -webkit-linear-gradient(top left, #B5DBDC, #A8C6D4);
-	background: -moz-linear-gradient(top left, #B5DBDC, #A8C6D4);
-	background: linear-gradient(top left, #B5DBDC, #A8C6D4);*/
-	
-/*	background: #DFA2B9;
-	background: -webkit-linear-gradient(top left, #DFA2B9, #EBC48D);
-	background: -moz-linear-gradient(top left, #DFA2B9, #EBC48D);
-	background: linear-gradient(top left, #DFA2B9, #EBC48D);*/
 }
 
 img {
@@ -88,6 +59,7 @@ img {
 
 .copyright {
 	opacity: .5;
+    margin-bottom: 50px;
 } 
 
 .copyright p {
